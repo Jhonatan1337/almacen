@@ -1,0 +1,2 @@
+# almacen
+Entrevista técnica práctica.
